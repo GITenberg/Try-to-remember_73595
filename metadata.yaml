@@ -1,0 +1,29 @@
+_repo: Try-to-remember_73595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herbert, Frank
+    alias: Herbert, Frank Patrick
+    birthdate: 1920
+    deathdate: 1986
+    gutenberg_agent_id: '25754'
+    url: http://www.gutenberg.org/2009/agents/25754
+description: ''
+gutenberg_issued: '2024-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73595'
+language: en
+pgterms:marc905: 20240225144618herbert
+pgterms:marc906: '1961'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1961.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Try to remember!
+url: http://www.gutenberg.org/ebooks/73595
